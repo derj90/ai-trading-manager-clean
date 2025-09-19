@@ -24,8 +24,8 @@ Sistema automatizado de trading con IA, gestión de riesgo y ejecución automát
 
 ### 1. Clonar repositorio
 ```bash
-git clone https://github.com/tu-usuario/ai-trading-manager.git
-cd ai-trading-manager
+git clone https://github.com/derj90/ai-trading-manager-clean.git
+cd ai-trading-manager-clean
 ```
 
 ### 2. Instalar dependencias
@@ -173,8 +173,8 @@ npm run lint
 ## 📞 Soporte
 
 - **Issues**: GitHub Issues
-- **Telegram**: @tu_usuario
-- **Email**: soporte@tu-dominio.com
+- **Telegram**: @derj90
+- **Email**: soporte@ai-trading-manager.com
 
 ## 📜 Licencia
 
